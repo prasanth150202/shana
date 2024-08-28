@@ -780,7 +780,7 @@ button.fancybox-button.fancybox-button--share {
     width: 300px;
     position: fixed;
     bottom: 20px; /* Distance from the bottom */
-    left: 55%; /* Align the button's left edge to the center of the viewport */
+    left: 50%; /* Align the button's left edge to the center of the viewport */
     transform: translateX(-50%); /* Shift the button back by half of its width */
     z-index: 9;
     display: none; /* Initially hidden */
